@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**minahilw1122-sketch/minahilw1122-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Minahil Waqar, a Full-Stack AI Engineer passionate about building intelligent applications and solving real-world problems with code. I enjoy working on projects that combine Python, machine learning, and modern web technologies.  
 
-Here are some ideas to get you started:
+I’m constantly learning new AI techniques, exploring cloud deployment, and improving my full-stack development skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- Build AI-driven applications and automation tools  
+- Work with Python, machine learning, and data pipelines  
+- Develop web applications using modern frameworks  
+- Contribute to open-source projects and collaborative workflows  
+
+### Reach me
+Feel free to connect or collaborate via email: minahilwaqar@example.com
